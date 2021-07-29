@@ -18,7 +18,7 @@ class Weather {
   }
 
   // Change weather location
-  changeLocation(citye) {
+  changeLocation(city) {
     this.city = city;
   }
 }
